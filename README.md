@@ -1,0 +1,2 @@
+# PHP-Exceptions
+Exceções PHP
